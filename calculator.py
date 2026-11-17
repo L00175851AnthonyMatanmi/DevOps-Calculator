@@ -1,5 +1,7 @@
 """A small calculator class used to demonstrate unit testing and code coverage."""
 
+import math
+
 class Calculator:
     """Basic calculator supporting the common arithmetic operations."""
 
