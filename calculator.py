@@ -1,7 +1,5 @@
 """A small calculator class used to demonstrate unit testing and code coverage."""
 
-import math
-
 class Calculator:
     """Basic calculator supporting the common arithmetic operations."""
 
@@ -20,7 +18,6 @@ class Calculator:
         if b == 0:
             raise ValueError("Cannot divide by zero")
         return a / b
-
     
     def power(self, base, exponent):
         return base ** exponent
@@ -31,3 +28,7 @@ class Calculator:
         if value < 0:
             raise ValueError("Cannot take the square root of a negative number")
         return math.sqrt(value)
+
+      
+    def power(self, base, exponent):
+        return base ** exponent
