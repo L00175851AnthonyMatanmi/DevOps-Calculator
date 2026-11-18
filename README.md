@@ -12,7 +12,7 @@ devops-calculator/
 
 ## Getting started
 
-git clone https://github.com/<your-username>/devops-calculator.git
+git clone https://github.com/<L00175851AnthonyMatanmi>/devops-calculator.git
 cd devops-calculator
 python -m venv .venv
 # Windows:  .venv\Scripts\activate      macOS/Linux:  source .venv/bin/activate
@@ -97,3 +97,13 @@ Postman tests HTTP APIs, which would apply if the calculator were exposed as an 
 ![Single test](screenshots/single-test.png)
 ![Full suite](screenshots/full-suite.png)
 
+the project description and project structure
+
+Getting started
+
+
+Running the tests
+
+Branching strategy: GitHub Flow (with the rules, naming table and commit messages)
+
+Project management
