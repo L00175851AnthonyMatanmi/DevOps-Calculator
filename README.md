@@ -96,6 +96,7 @@ Postman tests HTTP APIs, which would apply if the calculator were exposed as an 
 
 ![Single test](screenshots/single-test.png)
 ![Full suite](screenshots/full-suite.png)
+![Coverage report](screenshots/coverage.png)
 
 the project description and project structure
 
