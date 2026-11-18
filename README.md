@@ -88,3 +88,12 @@ The coverage report
 Selenium automates browser UI testing, which would apply if this calculator had a web front end.
 
 Postman tests HTTP APIs, which would apply if the calculator were exposed as an API.
+
+
+## Test evidence
+
+**Coverage:** 100% of `calculator.py` with 11 tests.
+
+![Single test](screenshots/single-test.png)
+![Full suite](screenshots/full-suite.png)
+![Coverage report](screenshots/coverage.png)
